@@ -1,5 +1,6 @@
 # Dreamy Bites
 Dreamy Bites is a bakery website created to provide users with an easy and delightful online shopping experience. The website features **16 pages** designed with a focus on accessibility and user experience. 
+
 ![Demo](Demo.gif)
 
 ## Pages Overview
